@@ -1,3 +1,3 @@
 # LookTube
 new YouTube
-lol
+lol lol
