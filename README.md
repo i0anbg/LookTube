@@ -1,4 +1,3 @@
-INDEX
 <!DOCTYPE html>
 <html>
   <head>
@@ -11,6 +10,8 @@ INDEX
 <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
+  <img src= "C:\LookTubeLogo\LookTube.png" width="256" height="256">
+</img src= "C:\LookTubeLogo\LookTube.png">
 <header>
 <div class="container">
 </div>
@@ -31,7 +32,7 @@ INDEX
 
 <section id="showcase">
 <div class="container">
-<h1>Look Tube version 1.0</h1>
+<h1>Look Blog version 1.0</h1>
 <section id="newsletter">
 
 </section>
@@ -55,6 +56,7 @@ INDEX
 </nav>
 </body>
 </html>
+
 
 HOME
 <!DOCTYPE html>
