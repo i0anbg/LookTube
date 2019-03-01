@@ -7,11 +7,11 @@
   <meta name="keywords" content="Upload Videos"
 <meta "author" content="Brad Traversy">
 <title>Welcome to Look Blog version 1.0 | Demo Version</title>
-<link rel="stylesheet" href="./css/style.css">
+<link rel="stylesheet" href="css.css">
 </head>
 <body>
-  <img src= "C:\LookTubeLogo\LookTube.png" width="256" height="256">
-</img src= "C:\LookTubeLogo\LookTube.png">
+  <img id="logo" src= "C:\LookTubeLogo\LookTube.png">
+  </img id="logo" src= "C:\LookTubeLogo\LookTube.png">
 <header>
 <div class="container">
 </div>
@@ -57,7 +57,6 @@
 </body>
 </html>
 
-
 HOME
 <!DOCTYPE html>
 <html lang="en">
@@ -66,15 +65,16 @@ HOME
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Home</title>
+  <link rel="stylesheet" href="css.css">
 </head>
 <body>
 
     <li><a href="index.html">index<a/li>
     <li><a href="about.html">About<a/li>
     <li><a href="services.html">Services<a/li>
-
 </body>
 </html>
+
 
 
 
@@ -86,6 +86,7 @@ ABOUT
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>About</title>
+  <link rel="stylesheet" href="css.css">
 </head>
 <body>
     <li><a href="Home.html">Home<a/li>
@@ -97,6 +98,7 @@ ABOUT
 
 
 
+
 SERVICES
 <!DOCTYPE html>
 <html lang="en">
@@ -105,6 +107,7 @@ SERVICES
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Services</title>
+  <link rel="stylesheet" href="css.css">
 </head>
 <body>
 
@@ -116,3 +119,22 @@ SERVICES
 </html>
 
 
+
+
+CSS
+*{padding:0;
+  margin:0;
+ }
+ body{color:#5f0; background:#0af;}
+  p{
+  font-family: "Times New Roman", Times, serif;
+}
+#logo{
+  width:250px;height:128px;display: block;margin: 0 auto;
+}
+a{
+  color: brown;
+}
+a:hover{
+  color:#f00;
+}
