@@ -1,5 +1,3 @@
-# LookTube
-new YouTube
 <!DOCTYPE html>
 <html>
   <head>
@@ -8,7 +6,7 @@ new YouTube
   <meta name="description" content="Welcome to Look Tube Demo"
   <meta name="keywords" content="Upload Videos"
 <meta "author" content="Brad Traversy">
-<title>Welcome to Look Tube version 1.0 | Demo Version</title>
+<title>Welcome to Look Blog version 1.0 | Demo Version</title>
 <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
@@ -16,7 +14,7 @@ new YouTube
 <div class="container">
 </div>
 <div id="dranding">
-<h1>Welcome to Look Tube</h1>
+<h1>Welcome to Look Blog</h1>
 </div>
 </div>
 <nav>
@@ -57,56 +55,3 @@ new YouTube
 </body>
 </html>
 
-
-
-
-
-
-HOME CODE
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-
-  <title>Home</title>
-</head>
-<body>
-  <li><a href="testLT.html">index<a/li>
-</body>
-</html>
-    
-    
-    
-ABOUT CODE
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>About</title>
-</head>
-<body>
-  <li><a href="index.html">index<a/li>
-</body>
-</html>
-
-
-
-
-SERVICES CODE
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Services</title>
-</head>
-<body>
-  <li><a href="index.html">index<a/li>
-
-</body>
-</html>
